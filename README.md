@@ -6,6 +6,10 @@ Jika punya tambahan silahkan Pull Request
 
 Jika merasa itu bukan Phising domain silahkan kirim Issues
 
+# Software
+
+List ini menggunakan format [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
+
 # Format AdGuard
 
 - `||example.org^` :blokir akses ke example.org dan seluruh subdomainnya;
