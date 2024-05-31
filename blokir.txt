@@ -12,6 +12,7 @@
 ||bulkhumanist.top^
 ||business.blog^
 ||butre.my.id^
+||company.biz.id^
 ||cs-zx.top^
 ||co-com.cc^
 ||dadu55b.life^
