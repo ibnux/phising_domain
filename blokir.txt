@@ -15,6 +15,7 @@
 ||business.blog^
 ||butre.my.id^
 ||bachi.my.id^
+||chat-whafeapp.buzz^
 ||company.biz.id^
 ||cs-zx.top^
 ||co-com.cc^
