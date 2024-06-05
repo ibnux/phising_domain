@@ -59,6 +59,7 @@
 ||line.pm^
 ||logisticalfeast.top^
 ||mykd1.com^
+||mediaflare.biz^
 ||mamietaughtme.com^
 ||modernisationfabulous.top^
 ||newzs.biz.id^
