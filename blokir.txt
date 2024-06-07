@@ -20,6 +20,7 @@
 ||butre.my.id^$important,dnsrewrite=103.127.97.73
 ||bachi.my.id^$important,dnsrewrite=103.127.97.73
 ||brpkh.my.id^$important,dnsrewrite=103.127.97.73
+||clikweb.my.id^$important,dnsrewrite=103.127.97.73
 ||chat-whafeapp.buzz^$important,dnsrewrite=103.127.97.73
 ||company.biz.id^$important,dnsrewrite=103.127.97.73
 ||cs-zx.top^$important,dnsrewrite=103.127.97.73
