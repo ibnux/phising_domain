@@ -1,7 +1,7 @@
 # Domain diurutkan berdasarkan Abjad
 
 ||000webhostapp.com^$important,dnsrewrite=103.127.97.73
-||api.telegram.org/bot^$important,dnsrewrite=103.127.97.73
+||api.telegram.org^$important,dnsrewrite=103.127.97.73
 ||1wtsso.life^$important,dnsrewrite=103.127.97.73
 ||292i.com^$important,dnsrewrite=103.127.97.73
 ||405am.cc^$important,dnsrewrite=103.127.97.73
