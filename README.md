@@ -18,3 +18,5 @@ List ini menggunakan format [AdGuardHome](https://github.com/AdguardTeam/AdGuard
 - `! Komentar di sini.` :hanya sebuah komentar;
 - `# Untuk diisi Komentar` :hanya sebuah komentar;
 - `/REGEX/`: blokir akses ke domain yang cocok dengan ekspresi reguler yang ditentukan.
+
+[Lihat lebih lengkap](https://adguard-dns.io/kb/general/dns-filtering-syntax/)
