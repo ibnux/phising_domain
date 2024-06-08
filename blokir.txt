@@ -70,6 +70,7 @@
 ||mamietaughtme.com^$important,dnsrewrite=103.127.97.73
 ||modernisationfabulous.top^$important,dnsrewrite=103.127.97.73
 ||newzs.biz.id^$important,dnsrewrite=103.127.97.73
+||newaloker.asia^$important,dnsrewrite=103.127.97.73
 ||nos69vip.monster^$important,dnsrewrite=103.127.97.73
 ||opeshops.net^$important,dnsrewrite=103.127.97.73
 ||pawamiable.top^$important,dnsrewrite=103.127.97.73
