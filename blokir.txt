@@ -26,6 +26,7 @@
 ||cs-zx.top^$important,dnsrewrite=103.127.97.73
 ||co-com.cc^$important,dnsrewrite=103.127.97.73
 ||dilutesuicide.top^$important,dnsrewrite=103.127.97.73
+||diminishdomain.top^$important,dnsrewrite=103.127.97.73
 ||dadu55b.life^$important,dnsrewrite=103.127.97.73
 ||pooll.my.id^$important,dnsrewrite=103.127.97.73
 ||dnaizz.biz.id^$important,dnsrewrite=103.127.97.73
