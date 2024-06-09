@@ -91,6 +91,7 @@
 ||postlndonesia.xyz^$important,dnsrewrite=103.127.97.73
 ||passportnutrient.top^$important,dnsrewrite=103.127.97.73
 ||practicalintroduction.com^$important,dnsrewrite=103.127.97.73
+||preview-domain.com^$important,dnsrewrite=103.127.97.73
 ||predominateknight.top^$important,dnsrewrite=103.127.97.73
 ||propagatespaghetti.top^$important,dnsrewrite=103.127.97.73
 ||pulsagratis100ktelegrampromo.code.blog^$important,dnsrewrite=103.127.97.73
