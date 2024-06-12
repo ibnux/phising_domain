@@ -126,6 +126,7 @@
 ||tim-shopee.de^$important,dnsrewrite=103.127.97.73
 ||tmsotmals8.cc^$important,dnsrewrite=103.127.97.73
 ||tyr-i.com^$important,dnsrewrite=103.127.97.73
+||typewriterdenote.top^$important,dnsrewrite=103.127.97.73
 ||ukhjjg.cyou^$important,dnsrewrite=103.127.97.73
 ||unduh.vip^$important,dnsrewrite=103.127.97.73
 ||venturewealth-tb.org^$important,dnsrewrite=103.127.97.73
