@@ -93,6 +93,7 @@
 ||poslndonesia.com^$important,dnsrewrite=103.127.97.73
 ||poslndonesia.me^$important,dnsrewrite=103.127.97.73
 ||poslndonesia.vip^$important,dnsrewrite=103.127.97.73
+||postendwahere.xyz^$important,dnsrewrite=103.127.97.73
 ||postlndonesia.xyz^$important,dnsrewrite=103.127.97.73
 ||practicalintroduction.com^$important,dnsrewrite=103.127.97.73
 ||predominateknight.top^$important,dnsrewrite=103.127.97.73
