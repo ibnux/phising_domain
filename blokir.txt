@@ -70,6 +70,7 @@
 ||kencang.id^$important,dnsrewrite=103.127.97.73
 ||knowstagnant.top^$important,dnsrewrite=103.127.97.73
 ||klikdisinih.com^$important,dnsrewrite=103.127.97.73
+||ip1di1.com^$important,dnsrewrite=103.127.97.73
 ||lc.chat^$important,dnsrewrite=103.127.97.73
 ||leoparddisappearcrumble.com^$important,dnsrewrite=103.127.97.73
 ||line.pm^$important,dnsrewrite=103.127.97.73
