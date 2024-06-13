@@ -31,6 +31,7 @@
 ||contemptiblecorrelate.top^$important,dnsrewrite=103.127.97.73
 ||cs-zx.top^$important,dnsrewrite=103.127.97.73
 ||dadu55b.life^$important,dnsrewrite=103.127.97.73
+||dana-aktivasi.my.id^$important,dnsrewrite=103.127.97.73
 ||dana-id.shop^$important,dnsrewrite=103.127.97.73
 ||danakagets.cfd^$important,dnsrewrite=103.127.97.73
 ||danaspaylater.my.id^$important,dnsrewrite=103.127.97.73
