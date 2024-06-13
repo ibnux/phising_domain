@@ -39,6 +39,7 @@
 ||dnaizz.biz.id^$important,dnsrewrite=103.127.97.73
 ||dnidxweb.com^$important,dnsrewrite=103.127.97.73
 ||dxaiinv.com^$important,dnsrewrite=103.127.97.73
+||endingunanimous.top^$important,dnsrewrite=103.127.97.73
 ||elfsig.ht^$important,dnsrewrite=103.127.97.73
 ||eyebrowmanoeuvre.top^$important,dnsrewrite=103.127.97.73
 ||fosterstall.top^$important,dnsrewrite=103.127.97.73
