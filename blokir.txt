@@ -39,6 +39,7 @@
 ||danaspaylater.my.id^$important,dnsrewrite=103.127.97.73
 ||dilutesuicide.top^$important,dnsrewrite=103.127.97.73
 ||diminishdomain.top^$important,dnsrewrite=103.127.97.73
+||downloadfoul.top^$important,dnsrewrite=103.127.97.73
 ||dnaizz.biz.id^$important,dnsrewrite=103.127.97.73
 ||dnidxweb.com^$important,dnsrewrite=103.127.97.73
 ||dxaiinv.com^$important,dnsrewrite=103.127.97.73
