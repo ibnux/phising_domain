@@ -76,6 +76,7 @@
 ||kelpboat.com^$important,dnsrewrite=103.127.97.73
 ||kencang.id^$important,dnsrewrite=103.127.97.73
 ||knowstagnant.top^$important,dnsrewrite=103.127.97.73
+||kuotapelajar.pro^$important,dnsrewrite=103.127.97.73
 ||klikdisinih.com^$important,dnsrewrite=103.127.97.73
 ||librarianclergy.top^$important,dnsrewrite=103.127.97.73
 ||ip1di1.com^$important,dnsrewrite=103.127.97.73
