@@ -43,6 +43,7 @@
 ||dnaizz.biz.id^$important,dnsrewrite=103.127.97.73
 ||dnidxweb.com^$important,dnsrewrite=103.127.97.73
 ||dxaiinv.com^$important,dnsrewrite=103.127.97.73
+||exponenturine.top^$important,dnsrewrite=103.127.97.73
 ||endingunanimous.top^$important,dnsrewrite=103.127.97.73
 ||exertignite.top^$important,dnsrewrite=103.127.97.73
 ||elfsig.ht^$important,dnsrewrite=103.127.97.73
