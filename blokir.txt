@@ -151,6 +151,7 @@
 ||wwx.my.id^$important,dnsrewrite=103.127.97.73
 ||wildnewss.asia^$important,dnsrewrite=103.127.97.73
 ||wzid.biz.id^$important,dnsrewrite=103.127.97.73
+||xxx-idcom.biz.id^$important,dnsrewrite=103.127.97.73
 ||xstalkx.ru^$important,dnsrewrite=103.127.97.73
 ||yidiandian.xyz^$important,dnsrewrite=103.127.97.73
 ||z-e.my.id^$important,dnsrewrite=103.127.97.73
