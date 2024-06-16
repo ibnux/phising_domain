@@ -52,6 +52,7 @@
 ||fosterstall.top^$important,dnsrewrite=103.127.97.73
 ||from-resmi.com^$important,dnsrewrite=103.127.97.73
 ||gamifyspace.com^$important,dnsrewrite=103.127.97.73
+||grocerpreside.top^$important,dnsrewrite=103.127.97.73
 ||gardenercrude.top^$important,dnsrewrite=103.127.97.73
 ||gaskmedics.com^$important,dnsrewrite=103.127.97.73
 ||ghyw.my.id^$important,dnsrewrite=103.127.97.73
