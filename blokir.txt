@@ -102,6 +102,7 @@
 ||pictt.xyz^$important,dnsrewrite=103.127.97.73
 ||pictte.com^$important,dnsrewrite=103.127.97.73
 ||plcte.com^$important,dnsrewrite=103.127.97.73
+||pengajartekno.co.id^$important,dnsrewrite=103.127.97.73
 ||pooll.my.id^$important,dnsrewrite=103.127.97.73
 ||posindol.xyz^$important,dnsrewrite=103.127.97.73
 ||posindonesia-in.vip^$important,dnsrewrite=103.127.97.73
