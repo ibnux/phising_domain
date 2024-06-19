@@ -85,6 +85,7 @@
 ||lc.chat^$important,dnsrewrite=103.127.97.73
 ||leoparddisappearcrumble.com^$important,dnsrewrite=103.127.97.73
 ||line.pm^$important,dnsrewrite=103.127.97.73
+||lionfabricate.top^$important,dnsrewrite=103.127.97.73
 ||logisticalfeast.top^$important,dnsrewrite=103.127.97.73
 ||lowkerku.com^$important,dnsrewrite=103.127.97.73
 ||marvelcontemplative.top^$important,dnsrewrite=103.127.97.73
