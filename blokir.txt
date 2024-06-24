@@ -42,6 +42,7 @@
 ||dana-id.shop^$important,dnsrewrite=103.127.97.73
 ||danakagets.cfd^$important,dnsrewrite=103.127.97.73
 ||danaspaylater.my.id^$important,dnsrewrite=103.127.97.73
+||doodx.pro^$important,dnsrewrite=103.127.97.73
 ||dilutesuicide.top^$important,dnsrewrite=103.127.97.73
 ||diminishdomain.top^$important,dnsrewrite=103.127.97.73
 ||downloadfoul.top^$important,dnsrewrite=103.127.97.73
