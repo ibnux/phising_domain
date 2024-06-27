@@ -19,6 +19,7 @@
 ||bansos.press^$important,dnsrewrite=103.127.97.73
 ||bansos2024.site^$important,dnsrewrite=103.127.97.73
 ||brpkh.my.id^$important,dnsrewrite=103.127.97.73
+||bopminer.com^$important,dnsrewrite=103.127.97.73
 ||bareshove.top^$important,dnsrewrite=103.127.97.73
 ||btmworking.cc^$important,dnsrewrite=103.127.97.73
 ||bestunfollow.com^$important,dnsrewrite=103.127.97.73
