@@ -59,6 +59,7 @@
 ||eyebrowmanoeuvre.top^$important,dnsrewrite=103.127.97.73
 ||fosterstall.top^$important,dnsrewrite=103.127.97.73
 ||from-resmi.com^$important,dnsrewrite=103.127.97.73
+||gov-kasih.com^$important,dnsrewrite=103.127.97.73
 ||gamifyspace.com^$important,dnsrewrite=103.127.97.73
 ||grocerpreside.top^$important,dnsrewrite=103.127.97.73
 ||gardenercrude.top^$important,dnsrewrite=103.127.97.73
