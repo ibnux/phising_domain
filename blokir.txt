@@ -112,6 +112,7 @@
 ||opeshops.net^$important,dnsrewrite=103.127.97.73
 ||passportnutrient.top^$important,dnsrewrite=103.127.97.73
 ||pawamiable.top^$important,dnsrewrite=103.127.97.73
+||paradewa89.co^$important,dnsrewrite=103.127.97.73
 ||pbn.ltd^$important,dnsrewrite=103.127.97.73
 ||pict.dev^$important,dnsrewrite=103.127.97.73
 ||pictt.xyz^$important,dnsrewrite=103.127.97.73
