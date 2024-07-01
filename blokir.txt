@@ -6,6 +6,7 @@
 ||53izd.my.id^$important,dnsrewrite=103.127.97.73
 ||8vcy.com^$important,dnsrewrite=103.127.97.73
 ||ap1-kd.com^$important,dnsrewrite=103.127.97.73
+||appslink.biz.id^$important,dnsrewrite=103.127.97.73
 ||akademicrypto.com^$important,dnsrewrite=103.127.97.73
 ||aliarcade.com^$important,dnsrewrite=103.127.97.73
 ||aofficials.asia^$important,dnsrewrite=103.127.97.73
