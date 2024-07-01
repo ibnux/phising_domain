@@ -31,6 +31,7 @@
 ||butre.my.id^$important,dnsrewrite=103.127.97.73
 ||cnfstoreid.top^$important,dnsrewrite=103.127.97.73
 ||chestpeep.top^$important,dnsrewrite=103.127.97.73
+||c505.net^$important,dnsrewrite=103.127.97.73
 ||c-x.my.id^$important,dnsrewrite=103.127.97.73
 ||cebb.my.id^$important,dnsrewrite=103.127.97.73
 ||chat-whafeapp.buzz^$important,dnsrewrite=103.127.97.73
