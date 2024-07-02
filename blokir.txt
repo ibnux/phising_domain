@@ -168,6 +168,7 @@
 ||unduh.vip^$important,dnsrewrite=103.127.97.73
 ||venturewealth-tb.org^$important,dnsrewrite=103.127.97.73
 ||vercel.app^$important,dnsrewrite=103.127.97.73
+||webbsitemy.cyou^$important,dnsrewrite=103.127.97.73
 ||winrest.ca^$important,dnsrewrite=103.127.97.73
 ||wapclikk.biz.id^$important,dnsrewrite=103.127.97.73
 ||warnerbrosinco.com^$important,dnsrewrite=103.127.97.73
