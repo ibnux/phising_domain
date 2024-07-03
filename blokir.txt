@@ -145,6 +145,7 @@
 ||scoutcorrode.top^$important,dnsrewrite=103.127.97.73
 ||scr-tv.com^$important,dnsrewrite=103.127.97.73
 ||sedekah100.com^$important,dnsrewrite=103.127.97.73
+||sanitarylongevity.top^$important,dnsrewrite=103.127.97.73
 ||serveo.net^$important,dnsrewrite=103.127.97.73
 ||shopeemitra.com^$important,dnsrewrite=103.127.97.73
 ||showcaseturbulence.top^$important,dnsrewrite=103.127.97.73
