@@ -83,6 +83,7 @@
 ||idfid.my.id^$important,dnsrewrite=103.127.97.73
 ||idve.app^$important,dnsrewrite=103.127.97.73
 ||lkowi.cfd^$important,dnsrewrite=103.127.97.73
+||iconettecloset.shop^$important,dnsrewrite=103.127.97.73
 ||idn-private.my.id^$important,dnsrewrite=103.127.97.73
 ||indososmed.eu.org^$important,dnsrewrite=103.127.97.73
 ||ikluu.shop^$important,dnsrewrite=103.127.97.73
