@@ -178,6 +178,7 @@
 ||winrest.ca^$important,dnsrewrite=103.127.97.73
 ||wapclikk.biz.id^$important,dnsrewrite=103.127.97.73
 ||warnerbrosinco.com^$important,dnsrewrite=103.127.97.73
+||wbm.my.id^$important,dnsrewrite=103.127.97.73
 ||webs-lowongankerjaindonesia2024.biz.id^$important,dnsrewrite=103.127.97.73
 ||wixxid.my.id^$important,dnsrewrite=103.127.97.73
 ||wwx.my.id^$important,dnsrewrite=103.127.97.73
