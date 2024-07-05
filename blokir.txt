@@ -160,6 +160,7 @@
 ||smd.ink^$important,dnsrewrite=103.127.97.73
 ||somethinc.info^$important,dnsrewrite=103.127.97.73
 ||straightdifferentiation.top^$important,dnsrewrite=103.127.97.73
+||stipe.my.id^$important,dnsrewrite=103.127.97.73
 ||techmetaver.com^$important,dnsrewrite=103.127.97.73
 ||tedioussafeguard.top^$important,dnsrewrite=103.127.97.73
 ||telegrnm.com^$important,dnsrewrite=103.127.97.73
