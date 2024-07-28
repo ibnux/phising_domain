@@ -1,4 +1,5 @@
 # Domain diurutkan berdasarkan Abjad
+||voerin.vip^$important,dnsrewrite=103.127.97.73
 ||000webhostapp.com^$important,dnsrewrite=103.127.97.73
 ||43.129.41.155^$important,dnsrewrite=103.127.97.73
 ||1wtsso.life^$important,dnsrewrite=103.127.97.73
