@@ -19,6 +19,7 @@
 ||askenclosure.top^$important,dnsrewrite=103.127.97.73
 ||asstop.top^$important,dnsrewrite=103.127.97.73
 ||apronpoise.top^$important,dnsrewrite=103.127.97.73
+||0as6.com^$important,dnsrewrite=103.127.97.73
 ||bachi.my.id^$important,dnsrewrite=103.127.97.73
 ||bansos.press^$important,dnsrewrite=103.127.97.73
 ||bansos2024.site^$important,dnsrewrite=103.127.97.73
