@@ -58,6 +58,7 @@
 ||diminishdomain.top^$important,dnsrewrite=103.127.97.73
 ||downloadfoul.top^$important,dnsrewrite=103.127.97.73
 ||dnaizz.biz.id^$important,dnsrewrite=103.127.97.73
+||dcrety2977.cc^$important,dnsrewrite=103.127.97.73
 ||dnidxweb.com^$important,dnsrewrite=103.127.97.73
 ||dxaiinv.com^$important,dnsrewrite=103.127.97.73
 ||elaelo.id^$important,dnsrewrite=103.127.97.73
